@@ -1,0 +1,9 @@
+## Ignore Visual Studio & VS Code tracking files
+.vscode/
+*.suo
+*.user
+*.slnx
+
+## Ignore Compiled .NET Build Outputs
+bin/
+obj/
