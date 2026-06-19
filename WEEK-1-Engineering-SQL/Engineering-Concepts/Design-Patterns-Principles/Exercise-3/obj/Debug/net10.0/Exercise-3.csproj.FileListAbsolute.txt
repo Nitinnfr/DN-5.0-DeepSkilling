@@ -1,0 +1,14 @@
+C:\Users\NITIN SINGH\Music\DN 5.0-DeepSkilling\WEEK-1-Engineering-SQL\Engineering-Concepts\Design-Patterns-Principles\Exercise-3\bin\Debug\net10.0\Exercise-3.exe
+C:\Users\NITIN SINGH\Music\DN 5.0-DeepSkilling\WEEK-1-Engineering-SQL\Engineering-Concepts\Design-Patterns-Principles\Exercise-3\bin\Debug\net10.0\Exercise-3.deps.json
+C:\Users\NITIN SINGH\Music\DN 5.0-DeepSkilling\WEEK-1-Engineering-SQL\Engineering-Concepts\Design-Patterns-Principles\Exercise-3\bin\Debug\net10.0\Exercise-3.runtimeconfig.json
+C:\Users\NITIN SINGH\Music\DN 5.0-DeepSkilling\WEEK-1-Engineering-SQL\Engineering-Concepts\Design-Patterns-Principles\Exercise-3\bin\Debug\net10.0\Exercise-3.dll
+C:\Users\NITIN SINGH\Music\DN 5.0-DeepSkilling\WEEK-1-Engineering-SQL\Engineering-Concepts\Design-Patterns-Principles\Exercise-3\bin\Debug\net10.0\Exercise-3.pdb
+C:\Users\NITIN SINGH\Music\DN 5.0-DeepSkilling\WEEK-1-Engineering-SQL\Engineering-Concepts\Design-Patterns-Principles\Exercise-3\obj\Debug\net10.0\Exercise-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NITIN SINGH\Music\DN 5.0-DeepSkilling\WEEK-1-Engineering-SQL\Engineering-Concepts\Design-Patterns-Principles\Exercise-3\obj\Debug\net10.0\Exercise-3.AssemblyInfoInputs.cache
+C:\Users\NITIN SINGH\Music\DN 5.0-DeepSkilling\WEEK-1-Engineering-SQL\Engineering-Concepts\Design-Patterns-Principles\Exercise-3\obj\Debug\net10.0\Exercise-3.AssemblyInfo.cs
+C:\Users\NITIN SINGH\Music\DN 5.0-DeepSkilling\WEEK-1-Engineering-SQL\Engineering-Concepts\Design-Patterns-Principles\Exercise-3\obj\Debug\net10.0\Exercise-3.csproj.CoreCompileInputs.cache
+C:\Users\NITIN SINGH\Music\DN 5.0-DeepSkilling\WEEK-1-Engineering-SQL\Engineering-Concepts\Design-Patterns-Principles\Exercise-3\obj\Debug\net10.0\Exercise-3.dll
+C:\Users\NITIN SINGH\Music\DN 5.0-DeepSkilling\WEEK-1-Engineering-SQL\Engineering-Concepts\Design-Patterns-Principles\Exercise-3\obj\Debug\net10.0\refint\Exercise-3.dll
+C:\Users\NITIN SINGH\Music\DN 5.0-DeepSkilling\WEEK-1-Engineering-SQL\Engineering-Concepts\Design-Patterns-Principles\Exercise-3\obj\Debug\net10.0\Exercise-3.pdb
+C:\Users\NITIN SINGH\Music\DN 5.0-DeepSkilling\WEEK-1-Engineering-SQL\Engineering-Concepts\Design-Patterns-Principles\Exercise-3\obj\Debug\net10.0\Exercise-3.genruntimeconfig.cache
+C:\Users\NITIN SINGH\Music\DN 5.0-DeepSkilling\WEEK-1-Engineering-SQL\Engineering-Concepts\Design-Patterns-Principles\Exercise-3\obj\Debug\net10.0\ref\Exercise-3.dll
