@@ -20,12 +20,14 @@
       "outputPath": "C:\\Users\\NITIN SINGH\\Music\\DN 5.0-DeepSkilling\\WEEK-1-Engineering-SQL\\Engineering-Concepts\\Design-Patterns-Principles\\Exercise-1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\NITIN SINGH\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\NITIN SINGH\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
