@@ -1,0 +1,22 @@
+<div style="padding: 1.5rem;">
+  <h2>Course Catalog</h2>
+
+  <div *ngIf="isLoading; else courseContainer">
+    <p>Loading courses...</p>
+  </div>
+
+  <ng-template #courseContainer>
+    <div *ngIf="courses.length > 0; else noCourses">
+      <app-course-card 
+        *ngFor="let c of courses; trackBy: trackByCourseId" 
+        [course]="c" 
+        appHighlight="lightblue"
+        (click)="onCourseSelect(c.id)">
+      </app-course-card>
+    </div>
+  </ng-template>
+
+  <ng-template #noCourses>
+    <p>No courses available.</p>
+  </ng-template>
+</div>

@@ -1,0 +1,9 @@
+<nav style="display: flex; gap: 15px; padding: 1rem; background: #e0e0e0;">
+  <a routerLink="/">Home</a>
+  <a routerLink="/courses">Courses</a>
+  <a routerLink="/enroll">Enroll (Template)</a>
+  <a routerLink="/enroll-reactive">Enroll (Reactive)</a>
+  <a routerLink="/profile">Profile</a>
+</nav>
+
+<router-outlet></router-outlet>
