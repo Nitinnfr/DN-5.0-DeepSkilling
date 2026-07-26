@@ -1,0 +1,11 @@
+Part 1: Theory & Concepts1. What are React Components?React components are the building blocks of a React application. They act like independent, reusable UI pieces that combine HTML structure and visual logic.2. Components vs. Standard JavaScript FunctionsAspectJavaScript FunctionReact ComponentPurposePerforms a task or calculates a valueReturns UI markup (JSX) to render on screenNamingTypically camelCase (e.g., calculateTotal)Must use PascalCase (e.g., StudentProfile)ParametersAccepts explicit argumentsAccepts props object (or manages internal state)InvocationCalled directly: myFunction()Used like HTML tags: <MyComponent/>3. Types of ComponentsReact supports two main component paradigms:A. Function ComponentsA JavaScript function that accepts props as an argument and returns JSX.JavaScriptfunction Welcome() {
+  return <h1>Hello World</h1>;
+}
+Modern standard: Simple, concise, and uses Hooks (useState, useEffect) to manage state and side effects.B. Class ComponentsES6 JavaScript classes that extend React.Component.JavaScriptimport React, { Component } from 'react';
+
+class Welcome extends Component {
+  render() {
+    return <h1>Hello World</h1>;
+  }
+}
+Legacy paradigm (still widely tested in academic labs and legacy codebases).4. Key Class Component Conceptsconstructor(props): Special method called when a class component is instantiated. Used primarily to initialize local state (this.state) and bind event handler methods.render() Method: The only required method in a class component. React invokes render() to evaluate the component's JSX layout and determine what should appear on screen.
