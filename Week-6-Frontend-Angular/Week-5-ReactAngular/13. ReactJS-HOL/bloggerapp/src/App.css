@@ -1,0 +1,18 @@
+/* src/App.css */
+.container {
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+  padding: 20px;
+  font-family: sans-serif;
+}
+
+.column {
+  flex: 1;
+  padding: 0 15px;
+}
+
+/* Green Vertical Separator Border */
+.border-right {
+  border-right: 4px solid green;
+}
