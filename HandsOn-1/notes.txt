@@ -1,8 +1,0 @@
-angular.json: Configuration file for workspace and project-specific settings, build options, and CLI behaviors.
-tsconfig.json: Root TypeScript configuration specifying compiler options and global project settings.
-tsconfig.app.json: TypeScript configuration specifically for application source code compilation.
-package.json: Project metadata, script commands, and npm dependency declarations.
-src/main.ts: Application entry point that bootstraps the root standalone component or AppModule.
-src/app/app.config.ts (or app.module.ts): Central configuration defining application-wide providers, routes, and features.
-src/app/app.component.ts: Root component of the application acting as the main container.
-src/index.html: Main HTML page serving as the host container for application views.
